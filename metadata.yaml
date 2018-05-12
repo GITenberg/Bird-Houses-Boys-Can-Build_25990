@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '31715'
     url: http://www.gutenberg.org/2009/agents/31715
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25990#Bird-Houses-Boys-Can-Build
 gutenberg_bookshelf:
 - Woodwork
 - Animals-Wild-Birds
