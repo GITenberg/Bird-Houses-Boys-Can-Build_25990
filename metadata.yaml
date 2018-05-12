@@ -1,0 +1,29 @@
+_repo: Bird-Houses-Boys-Can-Build_25990
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Siepert, Albert Frederick
+    birthdate: 1883
+    gutenberg_agent_id: '31715'
+    url: http://www.gutenberg.org/2009/agents/31715
+description: ''
+gutenberg_bookshelf:
+- Woodwork
+- Animals-Wild-Birds
+- Technology
+gutenberg_issued: '2008-07-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25990'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Birdhouses'
+- !lcc 'QL'
+title: Bird Houses Boys Can Build
+url: http://www.gutenberg.org/ebooks/25990
